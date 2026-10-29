@@ -143,17 +143,26 @@ public function valeurReponse(string $codeQuestion): mixed
 
 
 
+<<<<<<< HEAD
 
 /**
  * Récupère le nombre de parcelles déclaré dans le questionnaire.
  */
 /*public function nombreVergersDeclares(): ?int
+=======
+   
+/**
+ * Récupère le nombre de parcelles déclaré dans le questionnaire.
+ */
+public function nombreVergersDeclares(): ?int
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
 {
     $valeur = $this->valeurReponse('effectif_vergers');
 
     return is_numeric($valeur) && (int) $valeur >= 0
         ? (int) $valeur
         : null;
+<<<<<<< HEAD
 }*/
 
 public function nombreVergersDeclares(): ?int
@@ -172,6 +181,8 @@ public function nombreVergersDeclares(): ?int
     }
 
     return (int) $vergers + (int) $sousVergers;
+=======
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
 }
 
 /**

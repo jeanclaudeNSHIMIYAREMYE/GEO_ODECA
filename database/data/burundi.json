@@ -1455,6 +1455,7 @@
             ]
         },
         "MAKAMBA": {
+<<<<<<< HEAD
             "Mugeni": [
                 "Buhema",
                 "Bujondi",
@@ -1467,6 +1468,8 @@
                 "Ndago",
                 "Ruremba"
             ],
+=======
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             "Bukeye": [
                 "Bukeye",
                 "Busoro",
@@ -1516,9 +1519,13 @@
                 "Mpinga",
                 "Mugutu",
                 "Murambi",
+<<<<<<< HEAD
                 "Murango",
                 "Muvumu",
                 "Nyabangwe"
+=======
+                "Murango"
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
             "Gisenyi": [
                 "Gasaka",
@@ -2022,8 +2029,12 @@
                 "Gitaba",
                 "Kinganda",
                 "Maramvya",
+<<<<<<< HEAD
                 "Mika",
                 "Nyamure"
+=======
+                "Mika"
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
             "Busoni": [
                 "Burara",
@@ -3620,8 +3631,12 @@
                 "Rudaraza",
                 "Rutonganikwa",
                 "Ruyaga",
+<<<<<<< HEAD
                 "Shanga",
                 "Mayenzi"
+=======
+                "Shanga"
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
             "Mubaragaza": [
                 "Kigoma",
@@ -3718,8 +3733,12 @@
                 "Mushikamo",
                 "Nkonyovu",
                 "Nyakararo",
+<<<<<<< HEAD
                 "Nyamitwenzi",
                 "Murinzi"
+=======
+                "Nyamitwenzi"
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
             "Renga": [
                 "Kayange",
@@ -3739,8 +3758,12 @@
                 "Nyarunazi",
                 "Rutegama",
                 "Quartier Buryohe",
+<<<<<<< HEAD
                 "Quartier Gasange",
                 "Gashingwa"
+=======
+                "Quartier Gasange"
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ]
         },
         "MURAMVYA": {

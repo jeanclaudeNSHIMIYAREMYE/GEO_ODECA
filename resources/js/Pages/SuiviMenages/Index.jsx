@@ -72,7 +72,11 @@ export default function Index({
         <AuthenticatedLayout
             header={
                 <h2 className="text-xl font-semibold leading-tight text-gray-800">
+<<<<<<< HEAD
                     Suivi des caféiculteur
+=======
+                    Suivi des ménages
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
                 </h2>
             }
         >
@@ -190,7 +194,11 @@ export default function Index({
                     <div className="overflow-hidden rounded-lg bg-white shadow-sm">
                         <div className="flex flex-wrap items-center justify-between gap-4 p-6">
                             <p className="text-sm text-gray-600">
+<<<<<<< HEAD
                                 {menages?.total ?? 0} caféiculteur(s)
+=======
+                                {menages?.total ?? 0} ménage(s)
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
                             </p>
 
                             <div className="flex flex-wrap items-center gap-4">

@@ -26,7 +26,10 @@ class ParcelleResource extends JsonResource
 
             'etat_verger' => $this->etat_verger,
             'type' => $this->type,
+<<<<<<< HEAD
             'type_parcelle' => $this->type_parcelle,
+=======
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
 
             /*
              * Localisation

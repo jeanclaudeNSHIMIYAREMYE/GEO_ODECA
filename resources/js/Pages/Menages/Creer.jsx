@@ -20,7 +20,11 @@ export default function Creer({ provinces, communes, zones, collines, enqueteurs
 
     return (
         <AuthenticatedLayout
+<<<<<<< HEAD
             header={<h2 className="text-xl font-semibold leading-tight text-gray-800">Nouveau caféiculture</h2>}
+=======
+            header={<h2 className="text-xl font-semibold leading-tight text-gray-800">Nouveau ménage</h2>}
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
         >
             <Head title="Nouveau ménage" />
 

@@ -209,4 +209,8 @@ class ReponseController extends Controller
 
         return (string) $valeur;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
