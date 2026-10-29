@@ -37,6 +37,13 @@ class ParcelleController extends Controller
                 'polygone' => $data['polygone'] ?? null,
             ]);
 
+ Log::info('DATA CREATE', [
+                'data' => $data ?? null,
+            ]);
+
+
+
+
         $parcelle = $menage->parcelles()->create($data);
 
         // Mise à jour de l'activité du ménage

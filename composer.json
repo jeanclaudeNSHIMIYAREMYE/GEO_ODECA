@@ -12,20 +12,12 @@
         "laravel/framework": "^13.8",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^3.0",
-<<<<<<< HEAD
-=======
-        "maatwebsite/excel": "^4.0",
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
         "openspout/openspout": "^5.3",
         "phpoffice/phpspreadsheet": "*",
         "tightenco/ziggy": "^2.0"
     },
     "require-dev": {
-<<<<<<< HEAD
         "fakerphp/faker": "^1.23",
-=======
-        "fakerphp/faker": "^1.24",
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
         "laravel/breeze": "^2.4",
         "laravel/pail": "^1.2.5",
         "laravel/pao": "^1.0.6",

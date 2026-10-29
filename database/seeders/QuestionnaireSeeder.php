@@ -18,11 +18,7 @@ class QuestionnaireSeeder extends Seeder
 
         $questionnaire = QuestionnaireVersion::updateOrCreate(
             [
-<<<<<<< HEAD
-                'nom' => 'Questionnaire du  caféiculteur - Version 1',
-=======
                 'nom' => 'Questionnaire ménage caféiculture - Version 1',
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
             [
                 'actif' => true,
@@ -65,11 +61,7 @@ class QuestionnaireSeeder extends Seeder
                 'code' => 'effectif_vergers',
 
                 'libelle' =>
-<<<<<<< HEAD
-                    'Combien de vergers de café le Caféiculteur possède-t-il ?',
-=======
                     'Combien de vergers de café le ménage possède-t-il ?',
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
 
                 'section' => 'Exploitation caféicole',
 
@@ -89,7 +81,6 @@ class QuestionnaireSeeder extends Seeder
             ],
 
             [
-<<<<<<< HEAD
                 'code' => 'effectif_sous_vergers',
 
                 'libelle' =>
@@ -113,8 +104,6 @@ class QuestionnaireSeeder extends Seeder
             ],
 
             [
-=======
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
                 'code' => 'pratiques_agricoles',
 
                 'libelle' =>
@@ -140,11 +129,7 @@ class QuestionnaireSeeder extends Seeder
 
                 'termine_si' => null,
 
-<<<<<<< HEAD
                 'ordre' => 4,
-=======
-                'ordre' => 3,
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
 
             [
@@ -184,22 +169,14 @@ class QuestionnaireSeeder extends Seeder
 
                 'termine_si' => null,
 
-<<<<<<< HEAD
                 'ordre' => 5,
-=======
-                'ordre' => 4,
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
 
             [
                 'code' => 'appartenance_cooperative',
 
                 'libelle' =>
-<<<<<<< HEAD
                     'Le Caféiculteur appartient-il à une coopérative café ou une association de caféiculteurs ?',
-=======
-                    'Le ménage appartient-il à une coopérative café ou une association de caféiculteurs ?',
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
 
                 'section' =>
                     'Appartenance associative et commercialisation',
@@ -219,11 +196,7 @@ class QuestionnaireSeeder extends Seeder
 
                 'termine_si' => null,
 
-<<<<<<< HEAD
                 'ordre' => 6,
-=======
-                'ordre' => 5,
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
 
             [
@@ -254,22 +227,14 @@ class QuestionnaireSeeder extends Seeder
 
                 'termine_si' => null,
 
-<<<<<<< HEAD
                 'ordre' => 7,
-=======
-                'ordre' => 6,
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
 
             [
                 'code' => 'lieux_vente',
 
                 'libelle' =>
-<<<<<<< HEAD
                     'Où le caféiculteur vend-il principalement son café ? (plusieurs choix possibles)',
-=======
-                    'Où le ménage vend-il principalement son café ? (plusieurs choix possibles)',
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
 
                 'section' =>
                     'Appartenance associative et commercialisation',
@@ -294,22 +259,14 @@ class QuestionnaireSeeder extends Seeder
 
                 'termine_si' => null,
 
-<<<<<<< HEAD
                 'ordre' => 8,
-=======
-                'ordre' => 7,
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
 
             [
                 'code' => 'connaissance_eudr',
 
                 'libelle' =>
-<<<<<<< HEAD
                     'Le Caféiculteur connaît-il le règlement européen EUDR interdisant la vente de café issu de la déforestation ?',
-=======
-                    'Le ménage connaît-il le règlement européen EUDR interdisant la vente de café issu de la déforestation ?',
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
 
                 'section' =>
                     'Appartenance associative et commercialisation',
@@ -329,11 +286,7 @@ class QuestionnaireSeeder extends Seeder
 
                 'termine_si' => null,
 
-<<<<<<< HEAD
                 'ordre' => 9,
-=======
-                'ordre' => 8,
->>>>>>> ae8f16f205eda2ec354ad5b108546b94a08545bd
             ],
         ];
 
